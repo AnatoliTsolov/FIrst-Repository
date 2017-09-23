@@ -7,3 +7,4 @@ Expecting a conflict.
 Editing directly in GitHub.
 The conflict is resolved.
 Trying the new branch.
+New try!
