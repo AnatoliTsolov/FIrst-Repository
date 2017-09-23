@@ -6,9 +6,8 @@ Pushing form the second folder.
 Expecting a conflict.
 Editing directly in GitHub.
 The conflict is resolved.
-<<<<<<< HEAD
 Editing on the master branch.
-=======
 Trying the new branch.
->>>>>>> testing
 Change on the master branch
+New try!
+
