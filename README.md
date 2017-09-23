@@ -11,3 +11,4 @@ Editing on the master branch.
 =======
 Trying the new branch.
 >>>>>>> testing
+Change on the master branch
