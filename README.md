@@ -1,4 +1,6 @@
 # FIrst-Repository
-Anatoli is trying to work GIT.
-It is OK fofr now :).
-Trying to push.
+Anatoli is trying to work with GIT.
+It is OK for now :).
+The mistake is fixed.
+Pushing form the second folder.
+
